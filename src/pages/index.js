@@ -7,9 +7,9 @@ import Seo from "../components/seo"
 
 const IndexPage = () => (
   <Layout>
-    <Seo title="Home" />
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
+    <Seo title="Data Expert" />
+    <h1>Hi, it's me, pfeiff</h1>
+    <p>Welcome to my new Gatsby site.</p>
     <p>Now go build something great.</p>
     <StaticImage
       src="../images/gatsby-astronaut.png"
